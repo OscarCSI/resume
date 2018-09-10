@@ -5,6 +5,7 @@
 
  - **MiraCosta College**
       - Fall 2016 - Present
+      
 ## Skills
 - **Primary Language**: Java
 - **Operating Systems**: Linux (Fedora), Windows
@@ -18,6 +19,6 @@
 	- *MiraCosta College(Spring 2018)*
 	- Conceptial apps that finds available tutors for multiple subjects within a certain radius of a user. The details such as name, distance and rating of an available tutor is displayed to the user with the option to hire a tutor for a specified time frame. The idea is to give students easy access to qualified tutors who can arrive at their location in a short amount of time.
  
- ## Honors
+## Honors
 - MiraCosta College President's List
   - Jan 2017, June 2017, Jan 2018, & June 2018
